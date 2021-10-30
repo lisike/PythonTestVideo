@@ -1,2 +1,4 @@
 #第一个python项目
 #测试
+import pyttsx3
+engine = pyttsx3.init()
